@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1>👘Tomoya</h1>
+<h2>Frontend React Developer</h2>
+<p>🔰 Currently studying Frontend, Javascript, Typescript, React & NEXT.js</p>
+<p>🎒 Studying Systems Development Analyst</p>
+<p>🍣 I like to learn Japanese and drawn doodles</p>
 
 <!--
 **Tomoyattm/tomoyattm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
