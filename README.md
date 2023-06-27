@@ -1,8 +1,14 @@
-<h1>👘Tomoya</h1>
-<h2>Frontend React Developer</h2>
-<p>🔰 Currently studying Frontend, Javascript, Typescript, React & NEXT.js</p>
-<p>🎒 Studying Systems Development Analyst</p>
-<p>🍣 I like to learn Japanese and drawn doodles</p>
+<h1>👘 Hello, I'm Tomoya</h1>
+<p>🔰 Frontend React Developer</p>
+<div style="display: inline-block">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+</div>
 
 <!--
 **Tomoyattm/tomoyattm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
