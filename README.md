@@ -5,6 +5,7 @@ I'm Tomoya, a front-end developer from Brazil.
 Currently, I focus on front-end technologies to develop intuitive application, make them more attractive and simple to use.ツ
 ## *Technologies*
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
